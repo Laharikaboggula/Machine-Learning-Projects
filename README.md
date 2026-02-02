@@ -1,0 +1,2 @@
+This project focuses on predicting housing prices in California using Machine Learning techniques. It involves data analysis, visualization, preprocessing, and building regression models with the help of NumPy, Pandas, Matplotlib, and Seaborn.
+The goal is to understand how different features like income, location, population, and housing characteristics influence house prices and to build a model that can estimate prices accurately.
